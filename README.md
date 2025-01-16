@@ -1,2 +1,2 @@
 # LeetCodeTutorials
-LeetCode tutorial solutions
+LeetCode tutorial solutions from https://leetcode.com/.
